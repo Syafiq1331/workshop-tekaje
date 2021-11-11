@@ -1,0 +1,16 @@
+#about,
+#projects,
+.nav-custom,
+footer {
+    background-color: #1F2235;
+}
+
+.jumbotron,
+#skill,
+#contact {
+    background-color: #323543;
+}
+
+/* .nav-custom {
+    margin-bottom: px !important;
+} */
