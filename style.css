@@ -18,7 +18,7 @@ footer {
 }
 
 .footer-custom img {
-    width: 75%;
+    width: 150%;
 }
 
 
@@ -33,7 +33,7 @@ footer {
     }
 
     .footer-custom img {
-        width: 200%;
+        width: 250%;
     }
 }
 
@@ -41,5 +41,9 @@ footer {
 @media screen and (min-width: 800px) {
     .skills-custom img {
         width: 70%;
+    }
+
+    .footer-custom img {
+        width: 80%;
     }
 }
