@@ -29,7 +29,7 @@ footer {
 /*untuk layar device berukuran sedang*/
 @media screen and (max-width: 575px) {
     .skills-custom img {
-        width: 100%;
+        width: 130%;
     }
 
     .footer-custom img {
